@@ -117,7 +117,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US]![alt text](images/image-5.png)
+![Trending Top Skills for Data Analysts in the US](images/image-5.png)
 
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
@@ -248,7 +248,7 @@ plt.show()
 #### Results
 
 ![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](images/image.png) 
- 
+
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.*
 
 #### Insights:
